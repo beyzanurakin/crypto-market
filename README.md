@@ -1,7 +1,7 @@
 
 # Crypto Market
 
-Web application that shows crypto coins prices an allowed searching
+Web application that shows crypto coins prices and allowed searching
 
 
 ## Build with
